@@ -1,4 +1,4 @@
-module sso
+module github.com/ckjkee/protos
 
 go 1.24.3
 
